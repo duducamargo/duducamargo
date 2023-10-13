@@ -1,7 +1,7 @@
 ![MasterHead](https://profdanielbrandao.files.wordpress.com/2019/08/microsoft-bosque-programming-language-1.jpg)
 <h1 align="center">Hi 👋, I'm Eduardo Farias Camargo</h1>
 <h3 align="center">A passionate technology enthusiast and a dedicated programming student.🚀💻</h3>
-<img align="right" width="500" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="Coding">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="Coding">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=duducamargo&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
 
