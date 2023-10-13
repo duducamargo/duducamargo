@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+I am currently enrolled in a Computer Science program, fueled by my profound love for technology. My academic journey has been a testament to my ability to tackle challenges swiftly, effectively, and with a creative touch. I am dedicated to honing my skills and knowledge, as I am on a path to enter the workforce armed with the expertise needed to make a meaningful impact in the tech industry.
+
 - 🌱 I’m currently learning **Java, MySQL, React**
 
 - 💬 Ask me about **C, JavaScript**
