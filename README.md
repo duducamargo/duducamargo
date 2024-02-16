@@ -10,8 +10,8 @@
 - 👨🏻‍💻 &nbsp; I am currently enrolled in a Computer Science program, fueled by my profound love for technology. My academic journey has been a testament to my ability to tackle challenges swiftly, effectively, and with a creative touch. I am dedicated to honing my skills and knowledge, as I am on a path to enter the workforce armed with the expertise needed to make a meaningful impact in the tech industry.
   <br><br>
 - 🌍 &nbsp; Living in **Curitiba, Brazil**
-- 🚀 &nbsp; I’m currently learning **Java, MySQL, React**
-- 💬 &nbsp; Ask me about **C, JavaScript**
+- 🚀 &nbsp; I’m currently learning **Java,  GraphQL, Next.JS**
+- 💬 &nbsp; Ask me about **C, JavaScript, React**
 - 🎮 &nbsp; Fun fact **A Lover of Comics and Games📚**
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -21,6 +21,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
 
 
 
@@ -28,8 +30,11 @@
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
 
 <h3>🛠 &nbsp;Dev Tools:</h3>
 
