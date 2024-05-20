@@ -31,6 +31,8 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
@@ -42,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 <br><br>
 
 <h2>🚀 &nbsp;A Little more about my profile</h2>
