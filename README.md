@@ -33,6 +33,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![Typescript](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
