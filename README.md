@@ -10,7 +10,7 @@
 - 👨🏻‍💻 &nbsp; I am currently enrolled in a Computer Science program, fueled by my profound love for technology. My academic journey has been a testament to my ability to tackle challenges swiftly, effectively, and with a creative touch. I am dedicated to honing my skills and knowledge, as I am on a path to enter the workforce armed with the expertise needed to make a meaningful impact in the tech industry.
   <br><br>
 - 🌍 &nbsp; Living in **Curitiba, Brazil**
-- 🚀 &nbsp; I’m currently learning **Java,  GraphQL, Next.JS**
+- 🚀 &nbsp; I’m currently learning **Java,  PHP, Python**
 - 💬 &nbsp; Ask me about **C, JavaScript, React**
 - 🎮 &nbsp; Fun fact **A Lover of Comics and Games📚**
 
