@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
+![TailWind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
 
 
