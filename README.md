@@ -51,11 +51,15 @@
 
 <h2>🚀 &nbsp;A Little more about my profile</h2>
 
-<a href="https://github.com/duducamargo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duducamargo&layout=compact&hide_border=true&count_private=true&hide=vue,hcl,Dockerfile,CMake,Makefile&theme=dracula" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/duducamargo/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duducamargo&layout=compact&hide_border=true&count_private=true&hide=vue,hcl,Dockerfile,CMake,Makefile&theme=dracula" />
+  </a>
+<br>
 <a href="https://github.com/duducamargo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duducamargo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
 </a>
+</div>
+
+
 
