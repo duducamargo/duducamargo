@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![TailWind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
 
@@ -32,7 +33,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![Typescript](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
