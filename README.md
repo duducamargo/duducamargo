@@ -1,7 +1,13 @@
 <h1>👋 &nbsp;Hello, I'm Eduardo Farias Camargo</h1>
 <p align="center">
-<a href="https://www.instagram.com/dudu__farias_/"><img src="https://img.shields.io/badge/-@dudu__farias__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:edu.farias.camargo@gmail.com"><img src="https://img.shields.io/badge/-edu.farias.camargo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dudu__farias_/">
+    <img src="https://img.shields.io/badge/-@dudu__farias__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:edu.farias.camargo@gmail.com">
+    <img src="https://img.shields.io/badge/-edu.farias.camargo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 </p>
 
@@ -17,37 +23,37 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![TailWind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <h3>🛠 &nbsp;Dev Tools:</h3>
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br><br>
 
 <h2>🚀 &nbsp;A Little more about my profile</h2>
