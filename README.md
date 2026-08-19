@@ -58,17 +58,5 @@
 ![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
 <br><br>
 
-<h2>🚀 &nbsp;A Little more about my profile</h2>
-
-<div align="center">
-  <a href="https://github.com/duducamargo/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duducamargo&layout=compact&hide_border=true&count_private=true&hide=vue,hcl,Dockerfile,CMake,Makefile&theme=dracula" />
-  </a>
-<br>
-<a href="https://github.com/duducamargo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duducamargo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>
-</div>
-
 
 
